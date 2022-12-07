@@ -1,8 +1,10 @@
 # Setting up .env
 
-npm install dotenv
+```css
+npm install dotenv --save
+```
 
--------
+---
 
 Create a file, name it 
 ```
