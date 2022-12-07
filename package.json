@@ -1,0 +1,21 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "A repository that provides examples of usage for discord.js v14 and related javascript elements.",
+  "type": "module",
+  "main": "Examples/6_Modals/modal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "slash-commands": "^1.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
