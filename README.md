@@ -10,7 +10,6 @@ Download the latest package installer [here](https://nodejs.org/en/download/).
 ```ruby
 npm install discord.js
 npm install slash-commands
-npm install dotenv
 ```
 
 #### Optional Packages
